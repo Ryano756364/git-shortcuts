@@ -2,6 +2,9 @@
 
 ---
 ### Shorcuts followed by syntax and *italics* for variable input
+` see status of staging and commits `
+> git status
+
 ` See where HEAD is pointing to + other details `
 > git log
 
